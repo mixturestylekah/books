@@ -16,4 +16,5 @@
 - [ ] [Ready Player One](https://www.amazon.co.jp/Ready-Player-One-Ernest-Cline/dp/0307887448)
 - [ ] [The Girl Who Saved the King of Sweden](https://www.amazon.com/Girl-Who-Saved-King-Sweden/dp/006232912X)
 - [ ] [My Brilliant Friend](https://www.amazon.co.jp/My-Brilliant-Friend-Neapolitan-Novels/dp/1609450787)
-- [ ] []()
+- [ ] [The Accidental Billionaires](https://www.amazon.co.jp/Accidental-Billionaires-Founding-Facebook-Betrayal/dp/0307740986)
+
