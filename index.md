@@ -17,4 +17,7 @@
 - [ ] [The Girl Who Saved the King of Sweden](https://www.amazon.com/Girl-Who-Saved-King-Sweden/dp/006232912X)
 - [ ] [My Brilliant Friend](https://www.amazon.co.jp/My-Brilliant-Friend-Neapolitan-Novels/dp/1609450787)
 - [ ] [The Accidental Billionaires](https://www.amazon.co.jp/Accidental-Billionaires-Founding-Facebook-Betrayal/dp/0307740986)
-
+- [ ] [Den Fujitaの商法①-④](https://www.amazon.co.jp/Den-Fujita%E3%81%AE%E5%95%86%E6%B3%95%E3%80%881%E3%80%89%E9%A0%AD%E3%81%AE%E6%82%AA%E3%81%84%E5%A5%B4%E3%81%AF%E6%90%8D%E3%82%92%E3%81%99%E3%82%8B-%E3%83%AF%E3%83%8B%E3%81%AE%E6%96%B0%E6%9B%B8-%E8%97%A4%E7%94%B0-%E7%94%B0/dp/4584110018)
+- [ ] [ローマ人の物語](http://www.amazon.co.jp/gp/product/4101181519/ref=as_li_tf_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4101181519&linkCode=as2&tag=umekidayo-22)
+- [ ] [アーキテクチャの生態系](https://www.amazon.co.jp/%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%AE%E7%94%9F%E6%85%8B%E7%B3%BB-%E6%BF%B1%E9%87%8E-%E6%99%BA%E5%8F%B2/dp/4757102453)
+- [ ] [フロー体験　喜びの現象学](https://www.amazon.co.jp/%E3%83%95%E3%83%AD%E3%83%BC%E4%BD%93%E9%A8%93%E5%85%A5%E9%96%80%E2%80%95%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%A8%E5%89%B5%E9%80%A0%E3%81%AE%E5%BF%83%E7%90%86%E5%AD%A6-M-%E3%83%81%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88%E3%83%9F%E3%83%8F%E3%82%A4/dp/4790714799)
