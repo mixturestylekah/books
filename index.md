@@ -33,3 +33,5 @@
 - [ ] [生産性―――マッキンゼーが組織と人材に求め続けるもの](https://www.amazon.co.jp/gp/product/4478101574?ie=UTF8&camp=1207&creative=8411&creativeASIN=4478101574&linkCode=shr&tag=t1496-22&qid=1494459404&sr=8-1&keywords=%E7%94%9F%E7%94%A3%E6%80%A7)
 - [ ] [人材開発研究大全](https://www.amazon.co.jp/gp/product/4130402803?ie=UTF8&camp=1207&creative=8411&creativeASIN=4130402803&linkCode=shr&tag=t1496-22&qid=1494459465&sr=8-3-fkmr1&keywords=%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%80%80DHBR)
 - [ ] [論語と算盤と私―――これからの経営と悔いを残さない個人の生き方について ](https://www.amazon.co.jp/exec/obidos/ASIN/4478069050/mrnoize08-22/)
+- [ ] [Inspired: 顧客の心を捉える製品の創り方](https://www.amazon.co.jp/exec/obidos/ASIN/B00TCM8TB4/mrnoize08-22/)
+- [ ] [GILT(ギルト) ITとファッションで世界を変える私たちの起業ストーリー ](https://www.amazon.co.jp/exec/obidos/ASIN/4822249565/mrnoize08-22/)
